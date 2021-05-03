@@ -31,8 +31,8 @@ int main() {
         }
     }  
 printf("The winning bid value is %d\n",hbv);  
-printf("Bid Winner is %c\n",bidders[num1]);
-printf("Payment to be done  %d\n", shbv);
+printf("Bid Winner is : %c\n",bidders[num1]);
+printf("Payment to be done : %d\n", shbv);
 printf("Valuation : %d \n",valuation[num1]);
 printf("Utility amount : %d",valuation[num1]-shbv);
 
